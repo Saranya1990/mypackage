@@ -6,5 +6,10 @@
             "email": "saran.intech@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+"repositories": [{
+  "type": "composer",
+  "url":  "https://php.fury.io/AUsFZm4axDkftdwb5qY6/saranya1990/"
+}]
+
 }
