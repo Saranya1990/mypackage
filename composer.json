@@ -9,5 +9,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+
+"repositories": [{
+  "type": "composer",
+  "url":  "https://php.fury.io/AUsFZm4axDkftdwb5qY6/saranyababu/"
+}]
 }

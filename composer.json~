@@ -1,15 +1,18 @@
 {
     "name": "root/src",
+    "description": "\"mypackage\"",
+    "license": "MIT",
     "authors": [
         {
             "name": "Saranya1990",
             "email": "saran.intech@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
+
 "repositories": [{
   "type": "composer",
-  "url":  "https://php.fury.io/AUsFZm4axDkftdwb5qY6/saranya1990/"
+  "url":  "https://php.fury.io/AUsFZm4axDkftdwb5qY6/saranyababu/"
 }]
-
 }
