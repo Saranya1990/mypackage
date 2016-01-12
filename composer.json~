@@ -1,7 +1,8 @@
 {
     "name": "root/src",
-    "description": "\"Welcome\"",
-    
+    "description": "mypackage",
+    "type": "mypackage",
+    "license": "MIT",
     "authors": [
         {
             "name": "Saranya1990",
@@ -9,8 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
+    "require": {},
 "repositories": [{
   "type": "composer",
-  "url":  "https://php.fury.io/AUsFZm4axDkftdwb5qY6/saranyababu/"
+  "url":  "https://php.fury.io/AUsFZm4axDkftdwb5qY6/saranya1990/"
 }]
 }
