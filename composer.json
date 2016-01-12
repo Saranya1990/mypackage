@@ -1,0 +1,14 @@
+{
+    "name": "root/src",
+    "description": "\"Welcome\"",
+    "require": {
+        "fzaninotto/faker": "*"
+    },
+    "authors": [
+        {
+            "name": "Saranya1990",
+            "email": "saran.intech@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
